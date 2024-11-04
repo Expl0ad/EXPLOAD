@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --header-background: #393899;
+    --header-color: #f1ca5e;
+    --f-1: san-sarif;
+    --header-ul: #251a66;
+}
