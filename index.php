@@ -20,7 +20,7 @@
 <body>
     <header>
         <div class="logo">
-            <img src="" alt="site main logo">
+            <h1>EXPLOAD</h1>
         </div>
         <nav class="navigation">
             <ul>

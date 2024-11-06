@@ -7,6 +7,9 @@ header{
     padding: 10px;
 
     .logo{
+        background: linear-gradient(45deg, #ff8e2c, #e9235b);
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
     }
 
     nav.navigation{
