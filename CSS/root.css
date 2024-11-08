@@ -1,12 +1,31 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
 :root{
-    --header-background: #212121;
-    --header-color: #f1f1f1;
-    --f-1: san-sarif;
-    --header-ul: #353535;
+    --f-f-all: 'sans-serif';
+    --f-f-1: "Amatic SC", system-ui;
+    --f-f-2: "Baskervville", system-ui;
+    --f-f-3: "Bitter", system-ui;
+    --f-f-4: "Black Ops One", system-ui;
+    --f-f-5: "Bungee Tint", system-ui;
+    --f-f-6: "Exo 2", system-ui;
+    --f-f-7: "Germania One", system-ui;
+    --f-f-8: "Kalam", system-ui;
+    --f-f-9: "Kanit", system-ui;
+    --f-f-10: "Nerko One", system-ui;
+    --f-f-11: "New Amsterdam", system-ui;
+    --f-f-12: "New Rocker", system-ui;
+    --f-f-13: "Playwrite CU", system-ui;
+    --f-f-14: "Protest Guerrilla", system-ui;
+    --f-f-15: "Rajdhani", system-ui;
+    --f-f-16: "Rowdies", system-ui;
+
+
+
+
+
+
+
+    --background-1: #1a1a1a;
+    --background-2: #2b2b2b;
+    --background-3: linear-gradient(45deg, #ff8e2c, #e9235b);
+    --background-4: #1257ec;
+    --color: white;
 }
